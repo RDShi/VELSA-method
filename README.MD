@@ -1,4 +1,4 @@
-## MATLAB CODE FOR Reconstructing nonlinear networks subject to fast-varying noises by using linearization with expanded.
+## MATLAB code for reconstructing nonlinear networks subject to fast-varying noises by using linearization with expanded.
 
 [here](https://arxiv.org/pdf/1706.04076.pdf) is the address of this paper.
 
